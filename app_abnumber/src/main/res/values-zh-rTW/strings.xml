@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App_ABNumber</string>
+    <string name="DigitNum" translatable="false">任意四位數</string>
+    <string name="InputNum">輸入四位數</string>
+    <string name="buttonClick">傳送</string>
+    <string name="result">結果</string>
+</resources>

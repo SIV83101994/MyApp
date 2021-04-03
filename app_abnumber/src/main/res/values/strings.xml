@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_ABNumber</string>
+    <string name="DigitNum">Four Digit Number</string>
+    <string name="InputNum">Input 4 Number</string>
+    <string name="buttonClick">Submit</string>
+    <string name="result">Result</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="tf_height">Please input height</string>
+    <string name="tf_weight">Please input weight</string>
+    <string name="btn_calc">Calc</string>
+    <string name="result_view">bmi</string>
+
+</resources>
